@@ -1,1 +1,1 @@
-web: java -jar target/animal-logic-markov-2.0-SNAPSHOT.jar $PORT
+web: java -jar target/animal-logic-markov-1.0-SNAPSHOT.jar $PORT
