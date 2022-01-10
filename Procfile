@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/animal-logic-markov_1.0-SNAPSHOT.jar
+web: java -jar target/*.jar $PORT
